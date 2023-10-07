@@ -1,2 +1,3 @@
 New line to test github push through local repository
 Yet another line to test github push through local repository
+Adding new line now to this text and commiting it, when I use origin now again, want to see if it fills the previous remote repository which I setup
